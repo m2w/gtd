@@ -1,0 +1,12 @@
+= Getting Things Done
+
+Inspired by http://hamberg.no/gtd/
+
+This will be an implementation of the GTD lists.
+
+The first release will have:
+
+* a responsive layout
+* drag'n'drop moving of items between lists
+* autocompletion for contexts
+* a LocalStorage backend so that it is offline capable
