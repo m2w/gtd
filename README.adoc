@@ -10,3 +10,9 @@ The first release will have:
 * drag'n'drop moving of items between lists
 * autocompletion for contexts
 * a LocalStorage backend so that it is offline capable
+
+
+Brainstorm
+- 3 regular columns (collapse to swipable single column on small screens)
+- drag and drop between columns
+- similar to the way trello does it
